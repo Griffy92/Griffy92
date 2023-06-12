@@ -1,6 +1,12 @@
 ### Hello, I'm Dom!
 
-More updates coming soon!
+I'm a soon to be graduate from General Assembly's Software Engineering Immersive program
+
+- 💬 My most used languages are Javascript ( React ) and Ruby ( Rails ).
+- 🛠️ Tools I use - Github, Notion and Figma.
+- 🔭 I’m currently working on my final project, an e-commerce shop. 
+- 🌱 I’m currently learning Three.JS.
+
 <!--
 **Griffy92/Griffy92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
