@@ -1,11 +1,11 @@
 ### Hello, I'm Dom!
 
-I'm a soon to be graduate from General Assembly's Software Engineering Immersive program
+I'm a recent graduate from General Assembly's Software Engineering Immersive program.
 
+- 📫 I'm currently looking for a full-time software engineering position and would love to chat with you to see how I can fit into the team.
 - 💬 My most used languages are Javascript ( React ) and Ruby ( Rails ).
 - 🛠️ Tools I use - Github, Notion and Figma.
-- 🔭 I’m currently working on my final project, an e-commerce shop. 
-- 🌱 I’m currently learning Three.JS.
+- 🌱 I’m currently learning GraphQL.
 
 <!--
 **Griffy92/Griffy92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
