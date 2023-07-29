@@ -4,7 +4,7 @@ I'm a recent graduate from General Assembly's Software Engineering Immersive pro
 
 - 📫 I'm currently looking for a full-time software engineering position and would love to chat with you to see how I can fit into the team.
 - 💬 My most used languages are Javascript ( React ) and Ruby ( Rails ).
-- 🛠️ Tools I use - Github, Notion and Figma.
+- 🛠️ Tools I use - Github, Notion, Figma and Bash.
 - 🌱 I’m currently learning GraphQL and studying to do the AWS SA Cert.
 
 <!--
