@@ -7,8 +7,8 @@ My background has mainly been in the Advertising Technology landscape where I've
 - Troubleshoot platform :bug:.
 - Conveying client wants/needs in the form of user journeys/stories.
 - Anaylysing business processes & needs.
-- Script writing to automate the boring stuff!
 - Run platform demos.
+- Scripting for automation of tasks and manipulation of data.
 
 Working in Tech, I like to understand how things work so I took a coding course with GA and graudated from their Software Engineering Immersive program.
 
