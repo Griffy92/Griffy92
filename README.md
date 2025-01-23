@@ -12,8 +12,7 @@ My background has mainly been in the Advertising Technology landscape where I've
 
 Working in Tech, I like to understand how things work so I took a coding course with GA and graudated from their Software Engineering Immersive program.
 
-- 💬 My most used languages are Javascript ( React ) and Ruby ( Rails ).
-- 🛠️ Tools I use - Github, Notion, Whimsical & Bash.
+- 💬 My most used languages are Python, Javascript ( React ) and Ruby ( Rails ).
 
 <!--
 **Griffy92/Griffy92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
